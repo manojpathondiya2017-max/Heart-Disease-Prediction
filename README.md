@@ -54,3 +54,28 @@ The following machine learning models were evaluated based on their classificati
 | XGBoost | 83.61% |
 
 The accuracy comparison is also visualized in the Jupyter Notebook.
+
+## How to Run
+
+### 1. Clone the Repository
+
+```bash
+git clone https://github.com/manojpathondiya2017-max/Heart-Disease-Prediction.git
+cd Heart-Disease-Prediction
+```
+
+### 2. Install Required Libraries
+
+```bash
+pip install numpy pandas scikit-learn seaborn matplotlib
+```
+
+### 3. Run the Jupyter Notebook
+
+Open `project1.ipynb` using Jupyter Notebook or Google Colab.
+
+Make sure `heart.csv` is available in the same directory as the notebook.
+
+### 4. Run All Cells
+
+Execute all notebook cells to perform data preprocessing, train the machine learning models, and compare their accuracy.
