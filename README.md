@@ -40,3 +40,17 @@ The dataset used contains 14 features, including:
 * Target Feature:
   * 1: Presence of heart disease
   * 0: Absence of heart disease
+
+## Model Performance
+
+The following machine learning models were evaluated based on their classification accuracy:
+
+| Model | Accuracy |
+|---|---:|
+| Logistic Regression | 85.25% |
+| K-Nearest Neighbors | 67.21% |
+| Decision Tree | 81.97% |
+| Random Forest | 90.16% |
+| XGBoost | 83.61% |
+
+The accuracy comparison is also visualized in the Jupyter Notebook.
